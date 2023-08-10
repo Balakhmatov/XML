@@ -1,0 +1,10 @@
+<Bug report>
+<ID>124</ID>
+<Severity>Major</Severity>
+<Title>Menu button doesn't work on main Page</Title>
+<STR>1)Open www.site.com, 2)Tap on Menu button</STR>
+<Expected result>The menu panel drops out</Expected result>
+<Actual result>Menu panel doesn't drop out</Actual result>
+<Author>Ilia Balakhmatov</Author>
+<Environment>Win 11, Chrome 115</Environment>
+</Bug report>
